@@ -33,9 +33,9 @@ client = TelegramClient('anon', api_id, api_hash)
 
 #########################################################################################
 # Defining the keys, joiner and ban terms
-keys=[" vi", "vi ", "slot"]
-joiner="available"
-bannedTerms=["~", "*", "give", "does", "which", "any", "can", "virus", "first", "error", "18th min", "trying", "respective", "hello", "dose", "N/A", "dont", "don't", "hope", "checking", "glitch", "gone", "tried", "schedule", "not" , "?", "activity", "embassy", "before", "visa", "but", "miss", "na ", " na", "none", " no", "no ", "t.me", "lie", "what", "when", "how", "why", "where", "cant", "can't", "group", "like", "description", "couldnt", "couldn't", "everyone", "hai", "wait", "feel", "coming", "day", "good"]
+keys=["insert", "your", "keys"]
+joiner="this term MUST be present"
+bannedTerms=["~", "*", "spam", "terms"]
 
 
 #########################################################################################
